@@ -18,8 +18,8 @@ It’s designed to break your brain and teach you patience.
 
 | Name | Description |
 |------|-------------|
-| `Hello_World.bf` | Prints `Hello World` (No comma — because I'm not a sheep.) |
-| `Hello_World_Optimized.bf` | Prints `Hello World but in 2 bytes of memory` (No comma — because I'm not a sheep.) |
+| `Hello_World.bf` | Prints `Hello World!` (No comma — because I'm not a sheep.) |
+| `Hello_World_Optimized.bf` | Prints `Hello World! but in 2 bytes of memory` (No comma — because I'm not a sheep.) |
 
 > ⚠️ More unholy creations coming soon.
 
@@ -38,7 +38,7 @@ python bf_interpreter.py hello-world.bf
 Because I wanted to suffer.
 Because C was too easy.
 Because my neurons needed a workout.
-Because sometimes, you just want to print “Hello World” by incrementing a cell 72 times.
+Because sometimes, you just want to print “Hello World!” by incrementing a cell 72 times.
 
 🤘 Author
 Saksham "Ronsum" Dwivedi
