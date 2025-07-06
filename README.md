@@ -20,6 +20,7 @@ It’s designed to break your brain and teach you patience.
 |------|-------------|
 | `Hello_World.bf` | Prints `Hello World!` (No comma — because I'm not a sheep.) |
 | `Hello_World_Optimized.bf` | Prints `Hello World! but in 2 bytes of memory` (No comma — because I'm not a sheep.) |
+| `Dyanamic_String_Reverse.bf` | `Takes a string as input and prints it in reverse` (No comma — because I'm not a sheep.) |
 
 > ⚠️ More unholy creations coming soon.
 
