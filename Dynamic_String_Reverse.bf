@@ -1,2 +1,2 @@
-Reversing a string in BRAINFUCK is easier than C lol
+Taking a string input and reversing it in BRAINFUCK is easier than C lol
 >,[>,]<[.<]
