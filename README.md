@@ -18,7 +18,7 @@ It’s designed to break your brain and teach you patience.
 
 | Name | Description |
 |------|-------------|
-| `hello-world.bf` | Prints `Hello World` (No comma — because I'm not a sheep.) |
+| `Hello-World.bf` | Prints `Hello World` (No comma — because I'm not a sheep.) |
 
 > ⚠️ More unholy creations coming soon.
 
