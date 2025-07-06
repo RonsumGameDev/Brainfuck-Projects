@@ -35,13 +35,18 @@ Paste the code into [https://copy.sh/brainfuck/](https://copy.sh/brainfuck/) or 
 python bf_interpreter.py hello-world.bf
 ```
 🌌 Why?
-Because I wanted to suffer.\n
-Because C was too easy.\n
-Because my neurons needed a workout.\n
-Because sometimes, you just want to print “Hello World!” by incrementing a cell 72 times.\n
+Because I wanted to suffer.
+
+Because C was too easy.
+
+Because my neurons needed a workout.
+
+Because sometimes, you just want to print “Hello World!” by incrementing a cell 72 times.
 
 🤘 Author
+
 Saksham "Ronsum" Dwivedi
+
 Digital anarchist. Code masochist. Esolang cultist.
 
 "I don't use commas in Hello World. I use pain."
