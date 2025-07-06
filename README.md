@@ -33,8 +33,7 @@ Paste the code into [https://copy.sh/brainfuck/](https://copy.sh/brainfuck/) or 
 ### 🐍 Using Python (if you dare)
 ```bash
 python bf_interpreter.py hello-world.bf
-
-## Final Note
+```
 🌌 Why?
 Because I wanted to suffer.
 Because C was too easy.
